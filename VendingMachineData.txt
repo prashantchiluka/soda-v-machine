@@ -1,0 +1,32 @@
+------------------------------
+Time & Date of Purchase: Wed Oct 16 14:00:54 IST 2019:
+Product(s): 
+Total to be inserted: £0.00
+Amount Input: £0.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Oct 16 14:01:21 IST 2019:
+Product(s): 
+ Lime Soda - £0.50
+Total to be inserted: £0.50
+Amount Input: £0.80
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Oct 16 14:02:47 IST 2019:
+Product(s): 
+ Lime Soda - £0.50
+ Lime Soda - £0.50
+Total to be inserted: £1.00
+Amount Input: £1.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Oct 16 14:03:08 IST 2019:
+Product(s): 
+ 7up - £0.65
+Total to be inserted: £0.65
+Amount Input: £0.05
+--------------------------
+
